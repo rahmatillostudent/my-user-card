@@ -2,17 +2,22 @@ const projects = [
   {
     title: "AkademNashr",
     githubLink: " https://rahmatillostudent.github.io/akademnashr/",
-    netlifyLin: "akademnashr-fn-23.netlify.app",
+    vercelLink: "akademnashir-weld.vercel.app",
   },
   {
     title: "Ansormed",
     githubLink: " https://rahmatillostudent.github.io/ansormed/",
-    netlifyLin: "ansormed-fn-23.netlify.app",
+    vercelLink: "ansormed-fn-23.netlify.app",
   },
   {
     title: "My Cart",
-    githubLink: " https://rahmatillostudent.github.io/my-user-card/",
-    netlifyLink: "myusercard.netlify.app",
+    githubLink: "  https://rahmatillostudent.github.io/my-user-card/",
+    vercelLink: "myusercard.netlify.app",
+  },
+  {
+    title: "My Cart",
+    githubLink: "  https://rahmatillostudent.github.io/my-user-card/",
+    vercelLink: "myusercard.netlify.app",
   },
 ];
 
