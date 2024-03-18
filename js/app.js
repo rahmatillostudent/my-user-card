@@ -11,7 +11,7 @@ const projects = [
   },
   {
     title: "My Cart",
-    githubLink: "https://github.com/Nazarovfarhod/nazarovfarhod-user-card",
+    githubLink: " https://rahmatillostudent.github.io/my-user-card/",
     vercelLink: "nazarovfarhod-user-card.vercel.app",
   },
 ];
