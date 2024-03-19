@@ -11,6 +11,11 @@ const projects = [
   },
   {
     title: "My Cart",
+    githubLink: "https://rahmatillostudent.github.io/my-user-card/",
+    vercelLink: "myusercard.netlify.app",
+  },
+  {
+    title: "My Cart",
     githubLink: "https://rahmatillostudent.github.io/fn-23-3/",
     vercelLink: "fn-23-3.netlify.app",
   },
